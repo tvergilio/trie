@@ -9,8 +9,8 @@ This solution provides a simple implementation of a Trie data structure for stri
 - Retrieve all words
 
 ## Running the Solution
-1. Open the solution in Visual Studio or any .NET IDE.
-2. Build and run the `TrieDictionary` project.
+1. Open the solution in Visual Studio or any .NET IDE
+2. Build and run the `TrieDictionary` project
 
 ## Testing
-Run the tests in `TrieDictionary.Tests` using your preferred test runner (e.g., Visual Studio Test Explorer).
+Run the tests in `TrieDictionary.Tests` using your preferred test runner (e.g., Visual Studio Test Explorer)
